@@ -21,7 +21,7 @@ gem "jbuilder"
 
 gem 'bootstrap', '~> 5.3.0'   # design
 gem 'faker', '~> 2.20'       # seeding data
-gem 'will_paginate', '~> 3.3' # pagination
+gem 'will_paginate', '~> 4.0' # pagination
 gem 'bcrypt', '~> 3.1.13'    # authentication
 gem 'rubocop', '~> 1.40'     # code styling
 gem 'sassc-rails'
