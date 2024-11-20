@@ -20,7 +20,7 @@ gem "jbuilder"
 # gem "redis", ">= 4.0.1"
 
 gem 'bootstrap', '~> 5.3.0'   # design
-gem 'faker', '~> 2.20'       # seeding data
+gem 'faker', '~> 3.5'        # seeding data
 gem 'will_paginate', '~> 3.3' # pagination
 gem 'bcrypt', '~> 3.1.13'    # authentication
 gem 'rubocop', '~> 1.40'     # code styling
