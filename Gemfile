@@ -19,6 +19,13 @@ gem "jbuilder"
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
+gem 'bootstrap', '~> 5.3.0'   # design
+gem 'faker', '~> 2.20'       # seeding data
+gem 'will_paginate', '~> 3.3' # pagination
+gem 'bcrypt', '~> 3.1.13'    # authentication
+gem 'rubocop', '~> 1.40'     # code styling
+gem 'sassc-rails'
+
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
